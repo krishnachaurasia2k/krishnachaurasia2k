@@ -46,14 +46,14 @@ I am a Software Engineer focused on building **high-fidelity, production-grade a
 ### 📊 Operational Telemetry (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnachaurasia2k&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnachaurasia2k&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachaurasia2k&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=00000000" height="195" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnachaurasia2k&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnachaurasia2k&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ---

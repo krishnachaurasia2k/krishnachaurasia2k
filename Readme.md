@@ -71,14 +71,6 @@ I am a Software Engineer focused on building **high-fidelity, production-grade a
 
 <br>
 
-<!-- Activity Graph -->
-<div align="center">
-  <a href="https://github.com/krishnachaurasia2k">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnachaurasia2k&bg_color=0D1117&color=00FF9D&line=00FF9D&point=00FF9D&hide_border=true&title_color=00FF9D" alt="Activity Graph" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <h3>👾 Contribution Pac-Man</h3>

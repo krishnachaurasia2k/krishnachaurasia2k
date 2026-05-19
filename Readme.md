@@ -8,21 +8,12 @@
   </a>
 </div>
 
-<!-- Trophies Section -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishnachaurasia2k&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
 
-<br>
 
 <!-- Social Links (Placeholders) -->
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF9D" alt="Twitter"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=00FF9D" alt="Portfolio"></a>
 </p>
 
 ---

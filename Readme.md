@@ -8,42 +8,64 @@
   </a>
 </div>
 
+<!-- Trophies Section -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=krishnachaurasia2k&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
 <br>
 
+<!-- Social Links (Placeholders) -->
 <p align="center">
-  <a href="https://github.com/krishnachaurasia2k">
-    <img src="https://img.shields.io/github/followers/krishnachaurasia2k?label=Followers&style=for-the-badge&color=00FF9D&labelColor=0D1117" alt="Followers" />
-  </a>
-  <a href="https://github.com/krishnachaurasia2k">
-    <img src="https://img.shields.io/github/stars/krishnachaurasia2k?label=Stars&style=for-the-badge&color=00FF9D&labelColor=0D1117" alt="Stars" />
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn"></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF9D" alt="Twitter"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=globe&logoColor=00FF9D" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 💻 System Overview (About Me)
+### 💻 System Overview
 
 I am a Software Engineer focused on building **high-fidelity, production-grade applications** with a strong emphasis on **cybersecurity**, **telemetry**, and **system architecture**. I enjoy crafting "Hyper-Tech" interfaces and robust backend systems that scale.
 
 - 🔭 Currently building **Autonomous SRE Platforms** and **Cybersecure Command Centers**
 - 🧠 Deep diving into **Real-Time Telemetry**, **Zero-Trust Architecture**, and **High-Performance UIs**
 - 🛠️ Proficient in transitioning raw data into actionable, cinematic user experiences
-- 📫 How to reach me: [LinkedIn](#) | [Portfolio](#)
 - ⚡ Protocol: `Code. Deploy. Monitor. Secure.`
 
 ---
 
-### ⚙️ Technology Stack
+### ⚙️ Command Center Stack
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,python,fastapi,nodejs,express,mongodb,postgres,docker,kubernetes,aws,gcp,linux,git,github,bash,figma,tailwind,css&perline=10" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <b>🌐 Frontend & Design</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&perline=5" /><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,figma&perline=5" />
+    </td>
+    <td valign="top" width="25%">
+      <b>🧠 Backend & API</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&perline=5" />
+    </td>
+    <td valign="top" width="25%">
+      <b>🗄️ Database & Ops</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp&perline=5" />
+    </td>
+    <td valign="top" width="25%">
+      <b>🛠️ System & Core</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash&perline=5" /><br>
+      <img src="https://skillicons.dev/icons?i=git,github&perline=5" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Operational Telemetry (GitHub Stats)
+### 📊 Operational Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnachaurasia2k&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9" height="195" alt="GitHub Stats" />
@@ -54,6 +76,15 @@ I am a Software Engineer focused on building **high-fidelity, production-grade a
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnachaurasia2k&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/krishnachaurasia2k">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnachaurasia2k&bg_color=0D1117&color=00FF9D&line=00FF9D&point=00FF9D&hide_border=true&title_color=00FF9D" alt="Activity Graph" />
+  </a>
 </div>
 
 <br>
